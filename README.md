@@ -17,10 +17,12 @@ Tags: Plantable Fields, Fields, Plantable, Prefabs - Other, Other, Prefabs<br /
 
 | Title               | Plantable Fields DEMO   |
 | ------------------- | :---------------------- |
-| Author              | Anthony D ------------- |
+| Author              | Anthony D               |
 | Submitted / Updated | 06-02-2005 / 06-02-2005 |
-| Category            | Other
-| Type | dialog
+| Category            | Other                   |
+| Type                | dialog                  |
+
+<br />
 Description<br />
 I wanted to put some scripts together so I could help rebuild an area devastated by war for a persistant world project.<br />
 This basic one helps a farmer by preparing, then planting a small field.<br /><br />
