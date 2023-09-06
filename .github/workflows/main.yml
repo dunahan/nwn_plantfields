@@ -3,7 +3,7 @@ name: Run CI Build
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   ci_build:
