@@ -15,7 +15,7 @@
         },
         "FactionParentID": {
           "type": "dword",
-          "value": 4294967295
+          "value": 0
         }
       },
       {
@@ -30,7 +30,7 @@
         },
         "FactionParentID": {
           "type": "dword",
-          "value": 4294967295
+          "value": 0
         }
       },
       {
@@ -45,7 +45,7 @@
         },
         "FactionParentID": {
           "type": "dword",
-          "value": 4294967295
+          "value": 0
         }
       },
       {
@@ -60,7 +60,7 @@
         },
         "FactionParentID": {
           "type": "dword",
-          "value": 4294967295
+          "value": 0
         }
       },
       {
@@ -75,7 +75,7 @@
         },
         "FactionParentID": {
           "type": "dword",
-          "value": 4294967295
+          "value": 0
         }
       }
     ]
