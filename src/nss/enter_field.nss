@@ -8,14 +8,14 @@ http://www.lilacsoul.revility.com    */
 void main()
 {
 
-object oPC = GetEnteringObject();
+  object oPC = GetEnteringObject();
 
-if (!GetIsPC(oPC)) return;
+  if (!GetIsPC(oPC)) return;
 
-object oTarget;
-oTarget = OBJECT_SELF;
+  object oTarget;
+  oTarget = OBJECT_SELF;
 
-AssignCommand(oTarget, ActionStartConversation(oPC, "c_field"));
+  AssignCommand(oTarget, ActionStartConversation(oPC, "c_field"));
 
 }
 

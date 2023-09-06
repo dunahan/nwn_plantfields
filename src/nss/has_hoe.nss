@@ -5,7 +5,7 @@ int StartingConditional()
 {
 
     // Make sure the PC speaker has these items in their inventory
-    if(!HasItem(GetPCSpeaker(), "Hoe"))
+    if(!HasItem(GetPCSpeaker(), "hoe"))
         return FALSE;
 
     return TRUE;

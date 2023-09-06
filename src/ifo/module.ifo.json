@@ -58,11 +58,11 @@
   },
   "Mod_Entry_X": {
     "type": "float",
-    "value": 44.9168
+    "value": 44.0
   },
   "Mod_Entry_Y": {
     "type": "float",
-    "value": 26.0114
+    "value": 26.0
   },
   "Mod_Entry_Z": {
     "type": "float",
@@ -95,7 +95,8 @@
   "Mod_Name": {
     "type": "cexolocstring",
     "value": {
-      "0": "a test module"
+      "0": "a test module",
+      "4": "a test module"
     }
   },
   "Mod_OnAcquirItem": {
@@ -124,7 +125,7 @@
   },
   "Mod_OnModLoad": {
     "type": "resref",
-    "value": ""
+    "value": "_mod_onmodload"
   },
   "Mod_OnModStart": {
     "type": "resref",
@@ -140,11 +141,11 @@
   },
   "Mod_OnPlrDeath": {
     "type": "resref",
-    "value": "nw_o0_death"
+    "value": ""
   },
   "Mod_OnPlrDying": {
     "type": "resref",
-    "value": "nw_o0_dying"
+    "value": ""
   },
   "Mod_OnPlrEqItm": {
     "type": "resref",
@@ -176,7 +177,7 @@
   },
   "Mod_OnSpawnBtnDn": {
     "type": "resref",
-    "value": "nw_o0_respawn"
+    "value": ""
   },
   "Mod_OnUnAqreItem": {
     "type": "resref",

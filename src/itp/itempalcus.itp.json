@@ -485,17 +485,6 @@
               "__struct_id": 0,
               "NAME": {
                 "type": "cexostring",
-                "value": "Bucket of Manure"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "bucketofmanure"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
                 "value": "Bucket of Water"
               },
               "RESREF": {
@@ -518,7 +507,7 @@
               "__struct_id": 0,
               "NAME": {
                 "type": "cexostring",
-                "value": "plant"
+                "value": "Plant"
               },
               "RESREF": {
                 "type": "resref",
@@ -529,7 +518,18 @@
               "__struct_id": 0,
               "NAME": {
                 "type": "cexostring",
-                "value": "seeds"
+                "value": "Sack of manure"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sackofmanure"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Seeds"
               },
               "RESREF": {
                 "type": "resref",

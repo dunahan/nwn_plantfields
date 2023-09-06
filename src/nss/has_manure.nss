@@ -5,7 +5,7 @@ int StartingConditional()
 {
 
     // Make sure the PC speaker has these items in their inventory
-    if(!HasItem(GetPCSpeaker(), "Bucket of Manure"))
+    if(!HasItem(GetPCSpeaker(), "sackofmanure"))
         return FALSE;
 
     return TRUE;

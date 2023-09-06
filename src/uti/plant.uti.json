@@ -39,7 +39,8 @@
   "LocalizedName": {
     "type": "cexolocstring",
     "value": {
-      "0": "plant"
+      "0": "plant",
+      "4": "Plant"
     }
   },
   "ModelPart1": {

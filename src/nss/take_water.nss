@@ -10,7 +10,7 @@ void main()
 
     // Remove items from the player's inventory
     object oItemToTake;
-    oItemToTake = GetItemPossessedBy(GetPCSpeaker(), "Bucket of Water");
+    oItemToTake = GetItemPossessedBy(GetPCSpeaker(), "bucketofwater");
     if(GetIsObjectValid(oItemToTake) != 0)
         DestroyObject(oItemToTake);
     // Set the variables

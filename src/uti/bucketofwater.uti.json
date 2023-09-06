@@ -6,7 +6,7 @@
   },
   "BaseItem": {
     "type": "int",
-    "value": 66
+    "value": 29
   },
   "Charges": {
     "type": "byte",
@@ -18,7 +18,7 @@
   },
   "Cost": {
     "type": "dword",
-    "value": 15
+    "value": 0
   },
   "Cursed": {
     "type": "byte",
@@ -39,12 +39,12 @@
   "LocalizedName": {
     "type": "cexolocstring",
     "value": {
-      "0": "Bucket of Water"
+      "4": "Bucket of Water"
     }
   },
   "ModelPart1": {
     "type": "byte",
-    "value": 1
+    "value": 2
   },
   "PaletteID": {
     "type": "byte",
@@ -68,7 +68,7 @@
   },
   "Tag": {
     "type": "cexostring",
-    "value": "BucketofWater"
+    "value": "bucketofwater"
   },
   "TemplateResRef": {
     "type": "resref",
@@ -76,6 +76,6 @@
   },
   "xModelPart1": {
     "type": "word",
-    "value": 1
+    "value": 2
   }
 }

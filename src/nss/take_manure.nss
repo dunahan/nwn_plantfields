@@ -10,7 +10,7 @@ void main()
 
     // Remove items from the player's inventory
     object oItemToTake;
-    oItemToTake = GetItemPossessedBy(GetPCSpeaker(), "Bucket of Manure");
+    oItemToTake = GetItemPossessedBy(GetPCSpeaker(), "sackofmanure");
     if(GetIsObjectValid(oItemToTake) != 0)
         DestroyObject(oItemToTake);
 

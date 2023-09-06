@@ -7,10 +7,10 @@
 //:://////////////////////////////////////////////
 void main()
 {
-	// Give the speaker the items
-	CreateItemOnObject("bucketofmanure", GetPCSpeaker(), 1);
-	CreateItemOnObject("bucketofwater", GetPCSpeaker(), 1);
-	CreateItemOnObject("hoe", GetPCSpeaker(), 1);
-	CreateItemOnObject("seeds", GetPCSpeaker(), 1);
+    // Give the speaker the items
+    CreateItemOnObject("sackofmanure", GetPCSpeaker(), 1);
+    CreateItemOnObject("bucketofwater", GetPCSpeaker(), 1);
+    CreateItemOnObject("hoe", GetPCSpeaker(), 1);
+    CreateItemOnObject("seeds", GetPCSpeaker(), 1);
 
 }

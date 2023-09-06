@@ -6,7 +6,7 @@
   },
   "BaseItem": {
     "type": "int",
-    "value": 10
+    "value": 34
   },
   "Charges": {
     "type": "byte",
@@ -18,7 +18,7 @@
   },
   "Cost": {
     "type": "dword",
-    "value": 20
+    "value": 0
   },
   "Cursed": {
     "type": "byte",
@@ -39,20 +39,12 @@
   "LocalizedName": {
     "type": "cexolocstring",
     "value": {
-      "0": "Hoe"
+      "4": "Hoe"
     }
   },
   "ModelPart1": {
     "type": "byte",
-    "value": 11
-  },
-  "ModelPart2": {
-    "type": "byte",
-    "value": 11
-  },
-  "ModelPart3": {
-    "type": "byte",
-    "value": 11
+    "value": 4
   },
   "PaletteID": {
     "type": "byte",
@@ -76,7 +68,7 @@
   },
   "Tag": {
     "type": "cexostring",
-    "value": "Hoe"
+    "value": "hoe"
   },
   "TemplateResRef": {
     "type": "resref",
@@ -84,14 +76,6 @@
   },
   "xModelPart1": {
     "type": "word",
-    "value": 11
-  },
-  "xModelPart2": {
-    "type": "word",
-    "value": 11
-  },
-  "xModelPart3": {
-    "type": "word",
-    "value": 11
+    "value": 4
   }
 }
